@@ -1,0 +1,3 @@
+2025-10-15 18:02:56,535 - INFO - [_code_cache.py:102] - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Mir\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-10-15 18:02:56,536 - INFO - [_code_cache.py:83] - Using writeable comtypes cache directory: 'C:\Users\Mir\AppData\Local\Programs\Python\Python313\Lib\site-packages\comtypes\gen'
+2025-10-15 18:02:57,066 - WARNING - [main.py:138] - Button image not found: UI_Image\setting.png. Error: [Errno 2] No such file or directory: 'UI_Image\\setting.png'
